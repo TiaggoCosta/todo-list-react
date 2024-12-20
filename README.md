@@ -103,5 +103,3 @@ Visualiza a versão de produção do aplicativo.
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Feito com ❤️ por Seu Nome
